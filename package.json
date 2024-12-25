@@ -7,6 +7,11 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Gurnav",
+	"description": "A project about learning about npm and nodejs",
+	"keywords": ["js" , "nodejs", "freecodecamp"],
+	"license":"MIT",
+	"version": "1.2.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
